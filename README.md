@@ -51,3 +51,5 @@ This dashboard enables management to:
 ## 👤 Author
 Anusha Vennapusa  
 Aspiring Data Analyst | Power BI Enthusiast
+Maintained by anushavennapusa
+
