@@ -7,3 +7,4 @@ order_id,order_date,customer_name,product_name,category,region,sales_amount,prof
 1006,2024-01-15,Kavya,Mobile,Electronics,North,27000,4500
 1007,2024-01-18,Neha,Sofa,Furniture,West,45000,7000
 1008,2024-01-20,Rohan,Laptop,Electronics,East,60000,9000
+
